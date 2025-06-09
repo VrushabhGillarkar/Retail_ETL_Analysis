@@ -1,4 +1,4 @@
-# 🛒 Retail ETL Analysis
+# 🛒 Retail Analysis
 
 This project demonstrates an end-to-end **ETL (Extract, Transform, Load)** pipeline for retail order data using **Kaggle API**, **Python**, and **SQL Server**. The goal is to extract data from Kaggle, clean and process it using Python, load it into SQL Server, and perform insightful data analysis using SQL queries.
 
